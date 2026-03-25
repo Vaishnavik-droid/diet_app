@@ -1,4 +1,4 @@
-# Diet-plan-generator
+
 # 🍽️ Diet-plan-generator
 
 A comprehensive web application for generating personalized diet plans based on user preferences, dietary restrictions, and health goals.
