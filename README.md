@@ -41,7 +41,6 @@ A comprehensive web application for generating personalized diet plans based on 
 - 📊 **Nutritional Tracking**: Track calories 🔥, macronutrients (proteins 🍗, carbs 🍞, fats 🥑), and micronutrients 💊
 - 👥 **User Profiles**: Create and manage multiple user profiles with different dietary needs
 - 📚 **Meal Database**: Comprehensive database of recipes 📖 and nutritional information
-- 🛒 **Shopping Lists**: Auto-generated shopping lists based on selected meal plans
 - 📱 **Responsive Design**: Mobile-friendly interface for easy access on any device
 - 📈 **Progress Monitoring**: Track dietary adherence and health progress over time 📅
 
@@ -53,7 +52,7 @@ Before you get started, make sure you have:
 
 - 🐘 **PHP 7.4** or higher
 - 🗄️ **MySQL 5.7** or higher
-- 🖥️ **Apache/Nginx** web server
+- 🖥️ **Apache web server
 - 📦 **Composer** for dependency management
 - 🌐 Modern web browser (Chrome 🔵, Firefox 🔶, Safari 🧭, Edge 🔷)
 
@@ -205,12 +204,12 @@ diet_app/
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 🌟 Special thanks to:
-- All contributors 👨‍💻👩‍💻
+- All contributors 👩‍💻
 - The open-source community 🌐
-- Our users and supporters 💖
+- Our users and supporters 
 
 ---
 
